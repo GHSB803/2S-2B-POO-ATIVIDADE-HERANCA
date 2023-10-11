@@ -1,0 +1,1 @@
+{"version":3,"file":"Pessoa.js","sourceRoot":"","sources":["../../src/model/Pessoa.ts"],"names":[],"mappings":";;;AAAA,MAAsB,MAAM;IAG5B,oBAAoB;IACpB,YAAmB,KAAa,IAC3B,IAAI,CAAC,IAAI,GAAG,KAAK,CAAA,CAAA,CAAC;IAEhB,OAAO,CAAC,KAAa;QACxB,IAAI,CAAC,IAAI,GAAG,KAAK,CAAA;IACrB,CAAC;IACM,OAAO;QACV,OAAO,IAAI,CAAC,IAAI,CAAC;IACrB,CAAC;CAEA;AAdD,wBAcC"}
